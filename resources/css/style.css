@@ -345,6 +345,19 @@ a .logo-text .colmar {
   margin: 0;
 }
 
+#anchor {
+  text-decoration: none;
+  padding: 2px;
+  
+}
+.fab {
+  transition: transform 0.3s ease-in-out;
+}
+.fab:hover {
+  transform: rotate(360deg)scale(1.2);
+}
+
+
 /* MOBILE */
 
 /* Mobile navigation */
