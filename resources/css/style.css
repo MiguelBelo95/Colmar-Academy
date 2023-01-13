@@ -347,9 +347,9 @@ a .logo-text .colmar {
 
 #anchor {
   text-decoration: none;
-  padding: 2px;
-  
+  padding: 4px;
 }
+
 .fab {
   transition: transform 0.3s ease-in-out;
 }
